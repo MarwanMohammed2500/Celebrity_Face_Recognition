@@ -32,6 +32,8 @@ This project performs **celebrity face recognition** in video using **InsightFac
 ├── celeb.ipynb             # Jupyter notebook for experimentation
 
 ````
+**NOTE:**
+I didn't upload any images or videos for a few reasons, but you can still use the scraper to get the images, and use whatever videos you like!
 
 ---
 
