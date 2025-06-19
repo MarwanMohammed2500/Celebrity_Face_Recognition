@@ -2,6 +2,10 @@
 
 This project performs **celebrity face recognition** in video using **InsightFace's AntelopeV2** model. It combines face detection, embedding generation, and face tracking to annotate celebrities' faces in video footage.
 
+## Business Value
+While a celebrity face recognition model may have limited direct business value outside the entertainment industry, the underlying technologies — face detection, tracking, and recognition — have wide-ranging applications. These include automated security systems, access control, attendance monitoring in schools and workplaces, and customer analytics in retail. This project demonstrates the foundational components of such systems, showcasing their potential for real-world deployment.
+
+---
 ### Features
 
 - Scrapes celebrity face images using Bing
