@@ -116,5 +116,3 @@ This project is for educational/demo purposes. Ensure compliance with any third-
 ## Contributions
 
 Pull requests, feedback, and improvements are welcome!
-
-```
